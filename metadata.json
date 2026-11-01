@@ -1,0 +1,6 @@
+{
+  "name": "KeyCursor",
+  "description": "Physical keyboard mouse controller for Android, enabling system-wide cursor navigation, clicking, and dragging using arrow keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
